@@ -1,0 +1,1 @@
+    printf("%s %c (%lf,%lf)\n",comment,label,p.x,p.y);
